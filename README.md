@@ -1,6 +1,6 @@
 # Image-Processing-GUI
 Image Processing GUI using Python \
-Implemented few Image Filters applicable on both RGB and grayscale Images using python
+Implemented few Image Filters applicable on both RGB and grayscale Images using python pyqt
 with the ability to modify the kernel size (filter strength)
 
 Filters implemented and applied: 
