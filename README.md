@@ -1,2 +1,15 @@
 # Image-Processing-GUI
-Image Processing GUI using Python 
+Image Processing GUI using Python \
+Implemented few Image Filters applicable on both RGB and grayscale Images using python
+with the ability to modify the kernel size (filter strength)
+
+Filters implemented and applied: 
+1. Histogram Equalisation
+2. Mean Filter
+3. Median Filter
+4. Low Pass Filter
+5. High Pass Filter
+6. Gaussian Filter
+7. Sobel Filter
+8. Laplacian Filter
+
