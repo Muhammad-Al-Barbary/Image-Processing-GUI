@@ -9,6 +9,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PIL import Image, ImageFilter
 from scipy import ndimage
 
+
 def fourier_img(Image):
     dft = np.fft.fft2(Image)
     dft_shift = np.fft.fftshift(dft)
