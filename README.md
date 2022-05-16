@@ -13,3 +13,8 @@ Filters implemented and applied:
 7. Sobel Filter
 8. Laplacian Filter
 
+This video illustrates the GUI features:
+
+
+https://user-images.githubusercontent.com/101192969/168673125-c8f07bb1-e350-4d1b-9d39-0d687af660fb.mp4
+
